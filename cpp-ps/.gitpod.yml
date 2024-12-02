@@ -1,0 +1,3 @@
+tasks:
+  - init: sudo apt update && sudo apt install -y build-essential gdb
+    command: echo "C++ environment setup complete."
